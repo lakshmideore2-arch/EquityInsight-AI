@@ -1095,7 +1095,7 @@ Passionate about Economics, Machine Learning , Artificial Intelligence, Quantita
 
 GitHub: https://github.com/lakshmideore2-arch
 
-LinkedIn: linkedin.com/in/lakshmi-deore-b7b086376
+LinkedIn: https://www.linkedin.com/in/lakshmi-deore-b7b086376/
 # 📜 License
 
 Copyright © 2026 Lakshmi.
