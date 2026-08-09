@@ -1085,18 +1085,17 @@ Video: https://youtu.be/apaPLQmZHDQ
 
 **Lakshmi**
 
-BSC Applied Statistics and Data Science 
+BSC Applied Statistics and Data Science|
 Symbiosis Statistical Institute
 
-Ba Economics 
+Ba Economics |
 Ramkrishna More College of Arts,Commerce and Science
 
 Passionate about Economics, Machine Learning , Artificial Intelligence, Quantitative Finance,Financial Analytics, and Investment Research.
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/lakshmideore2-arch
 
-LinkedIn: https://linkedin.com/in/yourprofile
-
+LinkedIn: linkedin.com/in/lakshmi-deore-b7b086376
 # 📜 License
 
 Copyright © 2026 Lakshmi.
