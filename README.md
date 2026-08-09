@@ -1078,7 +1078,7 @@ The platform's scores, recommendations, simulations, AI-generated insights, and 
 Users should conduct their own research and consult a qualified financial professional before making investment decisions.
 
 ---
-## Demonstration of teh Project 
+## Demonstration of the Project 
 Video: https://youtu.be/apaPLQmZHDQ
 
 ## 👩‍💻 Developer
