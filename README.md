@@ -882,7 +882,7 @@ The application provides the following main navigation sections:
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/lakshmideore2-arch/EquityInsight-AI
+git clone https://github.com/lakshmideore2-arch/EquityInsight-AI.git
 ```
 
 ## 2. Enter the project directory
