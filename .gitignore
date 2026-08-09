@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+# Virtual Environment
+venv/
+env/
+.venv/
+# Environment Variables
+.env
+# Streamlit Secrets
+.streamlit/secrets.toml
+# IDE Files
+.vscode/
+.idea/
+# Jupyter Notebook
+.ipynb_checkpoints/
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+desktop.ini
+# Logs
+*.log
+# Temporary Files
+*.tmp
+*.temp
+# Build Files
+build/
+dist/
+*.egg-info/
+# Pytest
+.pytest_cache/
+
+#mypy
+.mypy_cache/

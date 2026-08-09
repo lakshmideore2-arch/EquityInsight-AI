@@ -1,0 +1,13 @@
+streamlit
+yfinance
+pandas
+numpy
+plotly
+matplotlib
+transformers
+torch
+gnews
+requests
+scikit-learn
+python-dotenv
+requests
