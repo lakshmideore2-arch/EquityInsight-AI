@@ -915,7 +915,7 @@ pip install -r requirements.txt
 
 ## 5. Configure environment variables
 
-Create/configure your `.env` file with the API credentials required by the modules that use external services.
+Create/configure your `.env` file with the API credentials under the variable name "TWELVE_DATA_API_KEY" required by the modules that use external services.
 
 **Do not commit `.env` to GitHub.**
 
